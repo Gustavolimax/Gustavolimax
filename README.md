@@ -12,7 +12,7 @@
 
 ---
 
-## ♡ Sobre mim
+##  Sobre mim
 
 Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, programação e desenvolvimento de soluções digitais.
 
