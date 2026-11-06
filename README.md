@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Gustavo de Lima ✦
+# ✧ Gustavo de Lima ✧
 
 **Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas**
 
@@ -24,7 +24,7 @@ Acredito que a evolução acontece através da curiosidade, da prática e da von
 
 ---
 
-## ⚙️ Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 <div align="center">
 
@@ -39,7 +39,7 @@ Acredito que a evolução acontece através da curiosidade, da prática e da von
 
 ---
 
-## ♡ Projetos e experiências
+## ✮ Projetos e experiências ✮
 
 **Vallontano | Loja de Vinhos**
 Projeto de desenvolvimento web com foco na criação de uma loja virtual, utilizando PHP e MySQL.
@@ -54,13 +54,10 @@ Experimentos e aplicações desenvolvidos para fortalecer minha lógica, explora
 
 ## ☕ Um pouco mais sobre mim
 
-Gosto de conhecer coisas novas e explorar minha criatividade.
-
-Tenho curiosidade em entender como as coisas funcionam.
-
-Gosto de projetos que me permitem experimentar e colocar ideias em prática.
-
-Café é praticamente indispensável durante meus estudos.
+-Gosto de conhecer coisas novas e explorar minha criatividade.
+-Tenho curiosidade em entender como as coisas funcionam.
+-Gosto de projetos que me permitem experimentar e colocar ideias em prática.
+-Café é praticamente indispensável durante meus estudos.
 
 ---
 
