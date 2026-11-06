@@ -55,8 +55,11 @@ Experimentos e aplicações desenvolvidos para fortalecer minha lógica, explora
 ## ☕ Um pouco mais sobre mim
 
 -Gosto de conhecer coisas novas e explorar minha criatividade.
+
 -Tenho curiosidade em entender como as coisas funcionam.
+
 -Gosto de projetos que me permitem experimentar e colocar ideias em prática.
+
 -Café é praticamente indispensável durante meus estudos.
 
 ---
