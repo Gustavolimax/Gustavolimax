@@ -41,33 +41,31 @@ Acredito que a evolução acontece através da curiosidade, da prática e da von
 
 ## ♡ Projetos e experiências
 
-**🍷 Vallontano | Loja de Vinhos**
+**Vallontano | Loja de Vinhos**
 Projeto de desenvolvimento web com foco na criação de uma loja virtual, utilizando PHP e MySQL.
 
-**💻 Projetos acadêmicos**
+**Projetos acadêmicos**
 Aplicações e atividades desenvolvidas durante a graduação, colocando em prática conceitos de programação.
 
-**✨ Projetos pessoais**
+**Projetos pessoais**
 Experimentos e aplicações desenvolvidos para fortalecer minha lógica, explorar tecnologias e ampliar meus conhecimentos.
 
 ---
 
 ## ☕ Um pouco mais sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Sempre buscando aprender algo novo.
-- ✨ Interessado em desenvolvimento web e criação de interfaces.
-- 🧠 Gosto de transformar desafios em oportunidades de aprendizado.
-- ☕ Café, criatividade e algumas linhas de código.
-
+Gosto de conhecer coisas novas e explorar minha criatividade.
+Tenho curiosidade em entender como as coisas funcionam.
+Gosto de projetos que me permitem experimentar e colocar ideias em prática.
+Café é praticamente indispensável durante meus estudos.
 ---
 
 <div align="center">
 
-### ♡
+### 
 
 *"A melhor tecnologia é aquela que transforma ideias em experiências e aproxima pessoas."*
 
-𓆝 𓆟 𓆞 𓆝
+𓆝 𓆟 𓆞 𓆝 𓆝 𓆟 𓆞 𓆝 𓆝 𓆟 𓆞 𓆝
 
 </div>
